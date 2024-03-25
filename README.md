@@ -19,4 +19,4 @@ O JSON deve ter a seguinte estrutura:
   ...
 ]
 
-# Fique à vontade para melhorar nosso Projeto do Sketchware. Espero que continue com o intuito de ser um app totalmente grátis.
+
